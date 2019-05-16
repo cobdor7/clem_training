@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>clem_description</name>
+  <version>0.0.0</version>
+  <description>The clem_description package</description>
+  <maintainer email="ajames2@unca.edu">Andrew James</maintainer>
+  <license>BSD</license>
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <export>
+
+  </export>
+</package>
